@@ -1,0 +1,4 @@
+An implementation of the tic tac toe game on a 5x5 board using Processing language
+Player can choose to play against the computer, of which currently have only 1 difficulity as the computer moves are random
+Can also choose to play against another human, however this required to be on the same device
+Controls are by mouse
